@@ -1,0 +1,7 @@
+class A
+{
+public static void maim(String args[])
+{
+System.out.println("Aman");
+}
+}
